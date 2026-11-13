@@ -1,0 +1,13 @@
+{
+  "name": "moneta-notifications",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "expo": {
+    "autolinking": {
+      "android": {
+        "sourceDir": "android"
+      }
+    }
+  }
+}

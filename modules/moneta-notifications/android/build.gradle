@@ -1,0 +1,12 @@
+plugins {
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.android'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'com.moneta.notifications'
+version = '1.0.0'
+
+android {
+  namespace 'com.moneta.notifications'
+}
